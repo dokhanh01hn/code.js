@@ -1,0 +1,37 @@
+h1{
+    color: black;
+    text-align: center;
+    font-size: 40px;
+    }
+
+p {
+font-size: 20px;
+font-style: italic;
+text-align: justify;
+}
+
+.border {
+    border: 3px green dashed;
+    }
+
+    #heading-1 {
+        background-color: hotpink;
+           }
+div p {
+    font-style: oblique;
+    font-size: 20px;
+}
+
+img {
+    display: block;
+    max-width:auto;
+    max-height:180px;
+    width: 200px;
+    height: auto;
+    text-align: center;
+  }
+
+  a {
+      font-size: 20px;
+  }
+  

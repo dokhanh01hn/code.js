@@ -1,0 +1,1 @@
+alert ("Chào mừng đến với trang web của Khánh");
