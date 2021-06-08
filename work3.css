@@ -1,0 +1,28 @@
+.item1 {
+    overflow: hidden;
+    box-sizing: border-box;
+    border: 2px black;
+    background-color:rgb(235, 173, 92);
+}
+.item1 a {
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 20px;
+    text-decoration: none;
+    font-weight: bold;
+   }
+
+.header {
+    padding: 70px;
+    text-align: center;
+    background-color: rgb(123, 236, 95);
+    color: black;
+    font-weight: bold;
+}
+
+.header h1 {
+    font-size: 40px;
+}
+
